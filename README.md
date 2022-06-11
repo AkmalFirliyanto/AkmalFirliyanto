@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Akmalfy
 - 👀 I’m interested in website development
-- 🌱 I’m currently learning javascript
+- 🌱 I’m currently learning javascript and php
 - 💞️ I’m looking to collaborate on website
 - 📫 How to reach me on instagram : akmlfy_
 
