@@ -2,7 +2,7 @@
 
 Hello! 👋🏻, My name is **Akmal**. I am from Open University Indonesia taking Information System👩🏾‍💻.
 
-I have interest on Software Development as well coding and gaming🎮! Currently Studying Dart and Flutter.
+I have interest on Website or Software Development as well coding and gaming🎮! Currently Studying Dart and Flutter.
 I am open for internship as a Software Developer or Front End Web Developer.
 
 **Tools**:
