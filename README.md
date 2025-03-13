@@ -10,7 +10,7 @@ I am open for internship as a Software Developer or Front End Web Developer.
 ![icons8-flutter-48](https://github.com/AkmalFirliyanto/Akmalfy/assets/49311462/1b1e072a-95e2-4093-af37-504c36967f6d) ![icons8-dart-48](https://github.com/AkmalFirliyanto/Akmalfy/assets/49311462/53f9e002-7f9f-408b-83f0-5c605af699a1) ![icons8-javascript-48](https://github.com/AkmalFirliyanto/Akmalfy/assets/49311462/041d5729-accd-4dd2-8414-3cea77620b34) ![icons8-html-logo-48](https://github.com/AkmalFirliyanto/Akmalfy/assets/49311462/fc3ae49d-f537-415d-98fc-353acf8692ae) ![icons8-css-logo-48](https://github.com/AkmalFirliyanto/Akmalfy/assets/49311462/00af6b4c-2811-4f3f-94bb-8b2cbcce30a0)
 
 1. 👨🏼‍🎓 I'm currently Studying
-2. 👨🏼‍💻 I'm currently learn Flutter
+2. 👨🏼‍💻 I'm currently learn Typescript
 3. 📧 How to reach me : Akmal Firliyanto (LinkedIn, Github)
 4. 😎 Pronouns : He / Him
 
